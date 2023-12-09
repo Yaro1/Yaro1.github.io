@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>"The wolf is weaker than the lion and the tiger but does not perform in the circus" (c.)</p>
+    <p>"The wolf is weaker than the lion and the tiger but does not perform in the circus"</p>
     <p>                    </p>
     <p>Utrecht, Netherlands</p>
 
