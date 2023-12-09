@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yaro1.github.io/sitemap.xml
