@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>"The wolf is weaker than the lion and the tiger but does not perform in the circus"</p>
-    <p>                    </p>
+    <p>"The wolf is weaker than the lion and the tiger but does not perform in the circus" (c.)</p>
     <p>Utrecht, Netherlands</p>
 
 news: true  # includes a list of news items
@@ -19,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi everyone! I'm a very competitive, enthusiastic engineer who doesn't know anything. I love jogging, skiing, reading books, algorithms, data structures and participating in open source projects. My goal is to learn something new every day. My dream is that my goal will never change.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Thank you for visiting my small personal field. I hope you will enjoy it.
