@@ -15,6 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>telegram: @yar4321</p>
+      <p>123 your address street</p>
       <p>Netherlands, Utrecht</p>
   - align: left
     image: prof_pic.jpg
